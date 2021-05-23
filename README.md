@@ -14,7 +14,7 @@ This is the reference implementation of our paper:
 #### Citing
 If you find this code useful in your work, please consider citing:
 ```shell
-@article{he2021lane-change-cbf,
+@inproceedings{he2021lane-change-cbf,
 title={Rule-Based Safety-Critical Control Design using Control Barrier Functions with Application to Autonomous Lane Change},
 author={He,Suiyi and Zeng, Jun and Zhang, Bike and Sreenath, Koushil},
 booktitle={2021 American Control Conference (ACC)},
