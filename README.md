@@ -18,7 +18,10 @@ If you find this code useful in your work, please consider citing:
 title={Rule-Based Safety-Critical Control Design using Control Barrier Functions with Application to Autonomous Lane Change},
 author={He,Suiyi and Zeng, Jun and Zhang, Bike and Sreenath, Koushil},
 booktitle={2021 American Control Conference (ACC)},
-year={2021}
+year={2021},
+volume={},
+number={},
+pages={178-185}
 }
 ```  
 
